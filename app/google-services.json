@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "382408199634",
+    "firebase_url": "https://nawafproject-de919-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nawafproject-de919",
+    "storage_bucket": "nawafproject-de919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382408199634:android:f7900652042667235acc0b",
+        "android_client_info": {
+          "package_name": "com.example.se328nawafalzahemproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382408199634-89k8t2rr49qtmsb51qk031no5prb9pl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9WCEkppm5DuCOAUdIsxK6pEgMVRyHe6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382408199634-89k8t2rr49qtmsb51qk031no5prb9pl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
